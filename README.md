@@ -3,7 +3,7 @@
 A modern and responsive **fitness studio web application** built with **React, Tailwind CSS, and TypeScript**.  
 The site showcases the gym’s services, membership plans, gallery, and provides users with an easy way to get in touch.  
 
-🚀 **Live Demo:** [Old Skool Fitness Studio](https://dhivanan46.github.io/old_skool_fitness/)
+🚀 **Live Demo:** [Old Skool Fitness Studio](https://dhivanan46.github.io/sample/)
 
 ---
 
